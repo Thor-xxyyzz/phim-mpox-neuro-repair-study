@@ -1,6 +1,7 @@
 # PHIM Discovery Report: From Viral Entry Mechanism to Neural Protein Repair
 # PHIM 發現報告：從病毒入侵機制到神經蛋白修復
 
+https://medium.com/@papagogothor/phim-discovery-report-from-viral-entry-mechanism-to-neural-protein-repair-21fd1c9362f1
 ## 🧬 Technical Abstract / 技術摘要
 This study utilizing the PHIM engine successfully translated a high-intensity physical shielding strategy (Score: 363.86) from the P0CK22 sequence of the Monkeypox virus (Mpox). Analysis indicates significant physical resonance between this field and the critical human neural protein Q156A1 (CNTNAP2).
 
