@@ -1,3 +1,7 @@
+# PHIM 2.0: Host Proteome Phase Transition and Viral Pathogenicity Prediction
+# PHIM 2.0：宿主蛋白質組相變與病毒致病性預測
+https://medium.com/@papagogothor/phim-2-0-host-proteome-phase-transition-and-viral-pathogenicity-prediction-6a1f2cc6cb31
+
 # PHIM Discovery Report: From Viral Entry Mechanism to Neural Protein Repair
 # PHIM 發現報告：從病毒入侵機制到神經蛋白修復
 
