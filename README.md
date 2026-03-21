@@ -7,9 +7,20 @@ This study utilizing the PHIM engine successfully translated a high-intensity ph
 
 本研究透過 PHIM 引擎，成功從猴痘病毒 (Mpox) 的 P0CK22 序列中轉譯出一套高強度物理屏蔽策略 (Score: 363.86)。數據分析顯示，該物理場與人類神經關鍵蛋白 Q156A1 (CNTNAP2) 存在顯著的物理共振。
 
-## 📊 Repository Content / 倉庫內容
-- **/Waveform_Library**: Contains 45 physical waveform validation plots (e.g., O21949, Q156A1).
-- **PHIM_Final_Layered_Analysis.csv**: Raw data for the 50 identified human proteins with physical distance and Z-scores.
+### 1. [/Physical-Waveforms](https://github.com/Thor-xxyyzz/phim-mpox-neuro-repair-study/tree/main/Physical-Waveforms)
+**包含 50 組高解析度物理波形圖 (Verification Plots)**
+* [cite_start]**藍線 (Blue Line)**：展示人類蛋白質的原生親水性震盪軌跡（Hydrophobicity Index），這是 PHIM 引擎進行實相感知的「物理基位」數據。 
+* [cite_start]**能量包絡 (Shaded Regions)**：圖中陰影部分標示了蛋白序列中的物理不穩定區間，這是 PHIM 引擎鎖定的核心干擾場域。 
+* [cite_start]**實證規模**：透過這 50 組波形的高頻特徵，證實了模型在捕捉宿主蛋白質組「相變前兆」時的極高靈敏度。 
+
+### 2. [/Protein-Analysis-Reports](https://github.com/Thor-xxyyzz/phim-mpox-neuro-repair-study/tree/main/Protein-Analysis-Reports)
+**個別蛋白質深度分析報告**
+* [cite_start]提供這 50 組關鍵標靶的中英對照分析（如 **O15078**, **O15116**）。 
+* [cite_start]詳細紀錄每組蛋白的 **Shield_Score**、**Z-Score 偏移** 及交互作用機制。 
+
+### 3. [PHIM_Final_Layered_Analysis.csv](https://github.com/Thor-xxyyzz/phim-mpox-neuro-repair-study/blob/main/PHIM_Final_Layered_Analysis.csv)
+**全樣本物理參數清單**
+* 包含 50 組蛋白的完整統計數值與分群（Cluster）分類，供獨立統計驗證。
 
 ## 📚 Data Sources / 數據來源庫
 - **Google Cloud & AlphaFold**: Protein 3D physical structure prediction.
