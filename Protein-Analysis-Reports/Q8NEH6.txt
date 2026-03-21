@@ -1,0 +1,18 @@
+### 📄 Q8NEH6 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q8NEH6
+* **Sequence Length:** 495 amino acids (aa) / 序列長度：495 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 335.56 / 物理屏蔽分數：335.56
+* **Z-Score (Base):** 0.77 -> **3.12 (Interaction)** / Z-分數：0.77 (基準) -> 3.12 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 2: Functional (功能干擾) / 分類：第二類功能干擾
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q8NEH6 (495 aa) exhibits a shift from a stable baseline Z-Score of 0.77 to a highly significant physical resonance of 3.12 during viral interaction. Classified under "Cluster 2: Functional Interference," its physical wave pattern suggests that P0CK22 does not just align with this protein but actively disrupts its inherent physiological oscillations, potentially leading to functional failure in the entry-fusion complex pathway.
+* **中文：** Q8NEH6（495 個氨基酸）在病毒交互過程中，其 Z-Score 從穩定的基準值 0.77 轉變為極其顯著的物理共振值 3.12。歸類於「第二類：功能干擾」，其物理波形顯示 P0CK22 不僅僅是與該蛋白對齊，而是主動干擾了其固有的生理振盪，進而可能導致入口融合複合體路徑的功能失效。
+
+---

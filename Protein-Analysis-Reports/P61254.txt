@@ -1,0 +1,18 @@
+### 📄 P61254 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** P61254
+* **Sequence Length:** 145 amino acids (aa) / 序列長度：145 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 315.38 / 物理屏蔽分數：315.38
+* **Z-Score (Base):** -0.57 -> **2.31 (Interaction)** / Z-分數：-0.57 (基準) -> 2.31 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** P61254 (145 aa) demonstrates a very low and stable baseline Z-Score of -0.57, indicating a state of high physical equilibrium under normal conditions. Upon interaction with P0CK22, the resonance increases to 2.31. Classified as "Cluster 3: Peripheral," this suggests that although the protein's physical field is affected by the viral entry-fusion complex, its role remains secondary and situated at the outskirts of the primary interaction network.
+* **中文：** P61254（145 個氨基酸）展現了非常低且穩定的基準 Z-Score (-0.57)，顯示其在正常條件下處於高度物理平衡的狀態。在與 P0CK22 交互作用後，共振增加至 2.31。歸類為「第三類：背景邊緣」，這顯示儘管該蛋白的物理場受病毒入口融合複合體影響，其角色仍屬次要，且處於主要交互網絡的邊緣位置。
+
+---

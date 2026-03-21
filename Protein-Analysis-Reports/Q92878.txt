@@ -1,0 +1,18 @@
+### 📄 Q92878 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q92878
+* **Sequence Length:** 1312 amino acids (aa) / 序列長度：1312 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 312.52 / 物理屏蔽分數：312.52
+* **Z-Score (Base):** -0.77 -> **2.19 (Interaction)** / Z-分數：-0.77 (基準) -> 2.19 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q92878 (1312 aa) exhibits an extremely stable baseline Z-Score of -0.77, the lowest in this series so far, indicating an exceptionally grounded physical state. Upon interaction with P0CK22, it shows a resonance shift to 2.19. Classified as "Cluster 3: Peripheral," it remains at the functional outskirts of the viral entry-fusion complex network despite its significant sequence length.
+* **中文：** Q92878（1312 個氨基酸）表現出極其穩定的基準 Z-Score (-0.77)，為目前系列中最低，顯示其處於極度穩定的物理狀態。與 P0CK22 交互作用後，共振偏移至 2.19。歸類為「第三類：背景邊緣」，這顯示儘管其序列長度顯著，但在病毒入口融合複合體網絡中仍處於功能邊緣。
+
+---

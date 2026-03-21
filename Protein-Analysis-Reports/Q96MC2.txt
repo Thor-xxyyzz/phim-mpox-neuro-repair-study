@@ -1,0 +1,18 @@
+### 📄 Q96MC2 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q96MC2
+* **Sequence Length:** 740 amino acids (aa) / 序列長度：740 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 307.78 / 物理屏蔽分數：307.78
+* **Z-Score (Base):** -1.08 -> **2 (Interaction)** / Z-分數：-1.08 (基準) -> 2.0 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q96MC2 (740 aa) reaches an ultra-deep baseline Z-Score of -1.08, the highest level of physical grounding observed in this cluster so far. This suggests a state of extreme structural order in its native environment. Upon interaction with P0CK22, it experiences a resonance shift to a round 2.0. Categorized as "Cluster 3: Peripheral," it remains functionally situated at the outskirts of the primary viral entry-fusion network despite its high physical sensitivity.
+* **中文：** Q96MC2（740 個氨基酸）達到了 -1.08 的超深基準 Z-Score，是目前該群組中觀測到最高水平的物理接地。這顯示其在原生環境中處於極度結構有序的狀態。與 P0CK22 交互作用後，其共振偏移至整數值 2.0。歸類為「第三類：背景邊緣」，這顯示儘管其具備高度物理敏感性，在功能上仍處於主要病毒入口融合網絡的邊緣。
+
+---

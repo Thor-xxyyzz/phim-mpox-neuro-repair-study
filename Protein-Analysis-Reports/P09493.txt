@@ -1,0 +1,18 @@
+### 📄 P09493 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** P09493
+* **Sequence Length:** 284 amino acids (aa) / 序列長度：284 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 314.75 / 物理屏蔽分數：314.75
+* **Z-Score (Base):** -0.62 -> **2.28 (Interaction)** / Z-分數：-0.62 (基準) -> 2.28 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** P09493 (284 aa) exhibits a notably stable baseline Z-Score of -0.62, indicating a highly orderly physical state in its native environment. Upon interaction with P0CK22, it shows a resonance shift to 2.28. Classified as "Cluster 3: Peripheral," this suggests that while the viral entry-fusion complex modulates its physical field, the protein remains at the functional edge of the interaction network.
+* **中文：** P09493（284 個氨基酸）表現出顯著穩定的基準 Z-Score (-0.62)，顯示其在原生環境中處於高度有序的物理狀態。在與 P0CK22 交互作用後，共振偏移至 2.28。歸類為「第三類：背景邊緣」，這顯示儘管病毒入口融合複合體調節了其物理場，但該蛋白仍處於交互網絡的功能邊緣。
+
+---

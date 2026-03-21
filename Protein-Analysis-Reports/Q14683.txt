@@ -1,0 +1,18 @@
+### 📄 Q14683 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q14683
+* **Sequence Length:** 1233 amino acids (aa) / 序列長度：1233 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 308.39 / 物理屏蔽分數：308.39
+* **Z-Score (Base):** -1.04 -> **2.03 (Interaction)** / Z-分數：-1.04 (基準) -> 2.03 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q14683 (1233 aa) achieves an ultra-deep baseline Z-Score of -1.04, marking a new peak of physical stability in this series. This suggests a nearly "silent" electronic and structural background in its native state, despite its significant sequence length. Upon interaction with P0CK22, it transitions to a resonance of 2.03. Classified as "Cluster 3: Peripheral," it remains functionally distal to the core viral entry-fusion machinery.
+* **中文：** Q14683（1233 個氨基酸）達到了 -1.04 的超深基準 Z-Score，標誌著本系列物理穩定性的新高峰。這顯示儘管序列長度顯著，其在原生狀態下的電子與結構背景幾乎處於「靜默」狀態。與 P0CK22 交互作用後，其共振偏移至 2.03。歸類為「第三類：背景邊緣」，這顯示其在功能上仍遠離病毒入口融合的核心機制。
+
+---

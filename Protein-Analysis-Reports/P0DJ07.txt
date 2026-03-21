@@ -1,0 +1,18 @@
+### 📄 P0DJ07 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** P0DJ07
+* **Sequence Length:** 73 amino acids (aa) / 序列長度：73 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 322.47 / 物理屏蔽分數：322.47
+* **Z-Score (Base):** -0.1 -> **2.59 (Interaction)** / Z-分數：-0.1 (基準) -> 2.59 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 2: Functional (功能干擾) / 分類：第二類功能干擾
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** P0DJ07 (73 aa) maintains an extremely stable baseline with a slightly negative Z-Score of -0.1, indicating a highly ordered physical state. Interaction with P0CK22 forces a resonance shift to 2.59. Categorized under "Cluster 2: Functional Interference," this transition suggests that the viral entry-fusion complex effectively "unlocks" or destabilizes the protein's native field, likely leading to a loss of its original biological function.
+* **中文：** P0DJ07（73 個氨基酸）維持著極其穩定的基準，其 Z-Score 為微負值 -0.1，顯示其處於高度有序的物理狀態。與 P0CK22 的交互作用迫使其共振偏移至 2.59。歸類於「第二類：功能干擾」，這一轉變顯示病毒入口融合複合體有效地「解鎖」或瓦解了該蛋白的原生場域，進而可能導致其原始生物功能的喪失。
+
+---

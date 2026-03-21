@@ -1,0 +1,18 @@
+### 📄 Q6ZYL4 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q6ZYL4
+* **Sequence Length:** 71 amino acids (aa) / 序列長度：71 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 316.9 / 物理屏蔽分數：316.9
+* **Z-Score (Base):** -0.47 -> **2.37 (Interaction)** / Z-分數：-0.47 (基準) -> 2.37 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q6ZYL4 (71 aa) exhibits a very stable, negative baseline Z-Score of -0.47, indicating a highly orderly state under normal conditions. Upon interaction with P0CK22, it experiences a resonance shift to 2.37. Classified as "Cluster 3: Peripheral," this suggests that while the protein is physically influenced by the viral entry-fusion complex, it remains at the functional periphery of the interaction network.
+* **中文：** Q6ZYL4（71 個氨基酸）表現出非常穩定的負基準 Z-Score (-0.47)，顯示其在正常條件下處於高度有序的狀態。與 P0CK22 交互作用後，其共振偏移至 2.37。歸類為「第三類：背景邊緣」，這顯示儘管該蛋白在物理上受病毒入口融合複合體影響，但仍處於交互網絡的功能邊緣。
+
+---

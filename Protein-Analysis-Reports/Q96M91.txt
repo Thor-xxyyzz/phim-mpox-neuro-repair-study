@@ -1,0 +1,18 @@
+### 📄 Q96M91 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q96M91
+* **Sequence Length:** 514 amino acids (aa) / 序列長度：514 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 328.75 / 物理屏蔽分數：328.75
+* **Z-Score (Base):** 0.32 -> **2.85 (Interaction)** / Z-分數：0.32 (基準) -> 2.85 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 2: Functional (功能干擾) / 分類：第二類功能干擾
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q96M91 (514 aa) shows a relatively low baseline Z-Score of 0.32, which shifts to a significant 2.85 during interaction with the viral protein P0CK22. Categorized as "Cluster 2: Functional Interference," this indicates that while the protein is physically stable under normal conditions, the viral entry-fusion complex induces a substantial resonance shift, potentially disrupting its physiological role.
+* **中文：** Q96M91（514 個氨基酸）顯示出較低的基準 Z-Score (0.32)，但在與病毒蛋白 P0CK22 交互作用期間偏移至顯著的 2.85。歸類為「第二類：功能干擾」，這顯示雖然該蛋白在正常條件下物理性能穩定，但病毒入口融合複合體引發了大幅的共振偏移，進而可能擾亂其生理功能。
+
+---

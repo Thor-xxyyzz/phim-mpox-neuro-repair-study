@@ -1,0 +1,18 @@
+### 📄 Q9UI95 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q9UI95
+* **Sequence Length:** 211 amino acids (aa) / 序列長度：211 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 308.58 / 物理屏蔽分數：308.58
+* **Z-Score (Base):** -1.03 -> **2.03 (Interaction)** / Z-分數：-1.03 (基準) -> 2.03 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q9UI95 (211 aa) breaks new ground in this series with a baseline Z-Score of -1.03, the deepest stability recorded so far. This "ultra-low" energy state suggests an incredibly quiet and structured physical environment in its native form. Upon interaction with P0CK22, it transitions to a resonance of 2.03. Categorized as "Cluster 3: Peripheral," it remains a key example of how high-stability proteins occupy the functional fringes of the viral entry-fusion network.
+* **中文：** Q9UI95（211 個氨基酸）以 -1.03 的基準 Z-Score 突破了本系列紀錄，為目前觀測到的最深穩定值。這種「超低」能態顯示其在原生狀態下具有極其寂靜且高度結構化的物理環境。與 P0CK22 交互作用後，其共振偏移至 2.03。歸類為「第三類：背景邊緣」，這使其成為高穩定性蛋白如何佔據病毒入口融合網絡功能邊緣的一個典型案例。
+
+---

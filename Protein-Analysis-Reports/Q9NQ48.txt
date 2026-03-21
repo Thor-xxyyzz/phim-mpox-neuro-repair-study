@@ -1,0 +1,18 @@
+### 📄 Q9NQ48 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q9NQ48
+* **Sequence Length:** 299 amino acids (aa) / 序列長度：299 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 310.97 / 物理屏蔽分數：310.97
+* **Z-Score (Base):** -0.87 -> **2.13 (Interaction)** / Z-分數：-0.87 (基準) -> 2.13 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q9NQ48 (299 aa) exhibits an extremely deep baseline Z-Score of -0.87, representing one of the most stable and orderly physical states in this series. Upon interaction with P0CK22, it shows a resonance shift to 2.13. Categorized as "Cluster 3: Peripheral," this suggests that although the protein is physically modulated by the viral entry-fusion complex, its functional position remains at the outskirts of the primary interaction network.
+* **中文：** Q9NQ48（299 個氨基酸）表現出極深的基準 Z-Score (-0.87)，代表了本系列中最穩定且有序的物理狀態之一。與 P0CK22 交互作用後，共振偏移至 2.13。歸類為「第三類：背景邊緣」，這顯示儘管該蛋白在物理上受病毒入口融合複合體調節，其功能位置仍處於主要交互網絡的邊緣。
+
+---

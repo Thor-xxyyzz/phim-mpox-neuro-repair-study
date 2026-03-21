@@ -1,0 +1,18 @@
+### 📄 Q9UL16 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q9UL16
+* **Sequence Length:** 551 amino acids (aa) / 序列長度：551 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 322.63 / 物理屏蔽分數：322.63
+* **Z-Score (Base):** -0.09 -> **2.6 (Interaction)** / Z-分數：-0.09 (基準) -> 2.6 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 2: Functional (功能干擾) / 分類：第二類功能干擾
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q9UL16 (551 aa) displays an exceptionally stable or even slightly negative baseline Z-Score (-0.09), indicating a highly balanced physical state under normal conditions. However, interaction with P0CK22 triggers a resonance shift to 2.6. Categorized under "Cluster 2: Functional Interference," this significant delta suggests that the viral entry-fusion complex disrupts the protein's native physical field, potentially impairing its physiological function.
+* **中文：** Q9UL16（551 個氨基酸）表現出極其穩定、甚至略微為負的基準 Z-Score（-0.09），顯示其在正常條件下處於高度平衡的物理狀態。然而，與 P0CK22 的交互作用觸發了 2.6 的共振偏移。歸類於「第二類：功能干擾」，這種顯著的差異顯示病毒入口融合複合體擾亂了該蛋白的原生物理場，進而可能損害其生理功能。
+
+---

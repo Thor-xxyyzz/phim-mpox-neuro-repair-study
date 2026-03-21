@@ -1,0 +1,19 @@
+### 📄 Q66GS9 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q66GS9
+* **Sequence Length:** 1140 amino acids (aa) / 序列長度：1140 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 311.06 / 物理屏蔽分數：311.06
+* **Z-Score (Base):** -0.86 -> **2.13 (Interaction)** / Z-分數：-0.86 (基準) -> 2.13 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：預測為第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q66GS9 (1140 aa) demonstrates a remarkably deep baseline Z-Score of -0.86, signifying an extremely stable and orderly physical field in its native state. Interaction with P0CK22 induces a resonance shift to 2.13. Despite its substantial sequence length, it remains categorized under "Cluster 3: Peripheral," indicating that while it responds to the viral entry-fusion complex, it occupies a non-core, peripheral position within the functional interaction network.
+* **中文：** Q66GS9（1140 個氨基酸）展現了極深的基準 Z-Score (-0.86)，代表其在原生狀態下具有極其穩定且有序的物理場。與 P0CK22 的交互作用引發了 2.13 的共振偏移。儘管其序列長度顯著，仍被歸類為「第三類：背景邊緣」，這顯示雖然它對病毒入口融合複合體有反應，但在功能交互網絡中仍處於非核心的邊緣位置。
+
+---
+

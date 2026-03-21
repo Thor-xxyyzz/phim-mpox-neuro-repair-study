@@ -1,0 +1,18 @@
+### 📄 P26678 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** P26678
+* **Sequence Length:** 52 amino acids (aa) / 序列長度：52 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 326.54 / 物理屏蔽分數：326.54
+* **Z-Score (Base):** 0.17 -> **2.76 (Interaction)** / Z-分數：0.17 (基準) -> 2.76 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 2: Functional (功能干擾) / 分類：第二類功能干擾
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** P26678 (52 aa) exhibits a near-static baseline Z-Score of 0.17, which undergoes a dramatic shift to 2.76 during interaction with the viral protein P0CK22. Categorized as "Cluster 2: Functional Interference," this suggests that despite its short sequence, the protein's physical field is highly susceptible to external viral modulation, leading to potential functional disruption of the entry-fusion process.
+* **中文：** P26678（52 個氨基酸）的基準 Z-Score 為 0.17（接近靜態），但在與病毒蛋白 P0CK22 交互作用期間發生了 2.76 的劇烈偏移。歸類為「第二類：功能干擾」，這顯示儘管其序列較短，該蛋白的物理場仍極易受外部病毒調節影響，進而可能導致入口融合過程的功能中斷。
+
+---

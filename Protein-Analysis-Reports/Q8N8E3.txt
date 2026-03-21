@@ -1,0 +1,18 @@
+### 📄 Q8N8E3 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q8N8E3
+* **Sequence Length:** 955 amino acids (aa) / 序列長度：955 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 308.94 / 物理屏蔽分數：308.94
+* **Z-Score (Base):** -1 -> **2.05 (Interaction)** / Z-分數：-1 (基準) -> 2.05 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q8N8E3 (955 aa) continues the trend of extreme physical stability with a baseline Z-Score of -1. This level of grounding suggests a highly regimented physical state in its native environment. Upon interaction with P0CK22, it transitions to a resonance of 2.05. Classified under "Cluster 3: Peripheral," it reinforces the observation that these highly stable proteins consistently function at the secondary layer of the viral entry-fusion complex.
+* **中文：** Q8N8E3（955 個氨基酸）延續了極度物理穩定的趨勢，其基準 Z-Score 為 -1。這種接地水平顯示其在原生環境中處於高度規範的物理狀態。與 P0CK22 交互作用後，其共振偏移至 2.05。歸類於「第三類：背景邊緣」，這進一步證實了這些高穩定性蛋白在病毒入口融合複合體中一致地處於次要功能層。
+
+---

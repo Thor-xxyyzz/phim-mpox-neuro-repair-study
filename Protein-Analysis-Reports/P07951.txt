@@ -1,0 +1,18 @@
+### 📄 P07951 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** P07951
+* **Sequence Length:** 284 amino acids (aa) / 序列長度：284 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 315.85 / 物理屏蔽分數：315.85
+* **Z-Score (Base):** -0.54 -> **2.33 (Interaction)** / Z-分數：-0.54 (基準) -> 2.33 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** P07951 (284 aa) exhibits a very stable, negative baseline Z-Score of -0.54, indicating a high degree of physical equilibrium under normal physiological conditions. Interaction with P0CK22 induces a resonance shift to 2.33. Classified as "Cluster 3: Peripheral," this suggests that although the viral entry-fusion complex protein OPG076 influences the protein's physical field, it remains on the outskirts of the primary functional interaction network.
+* **中文：** P07951（284 個氨基酸）表現出非常穩定的負基準 Z-Score (-0.54)，顯示其在正常生理條件下具有高度的物理平衡。與 P0CK22 的交互作用引發了 2.33 的共振偏移。歸類為「第三類：背景邊緣」，這顯示儘管病毒入口融合複合體蛋白 OPG076 影響了該蛋白的物理場，但其仍處於主要功能交互網絡的邊緣。
+
+---

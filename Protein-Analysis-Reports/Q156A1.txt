@@ -1,0 +1,18 @@
+### 📄 Q156A1 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q156A1
+* **Sequence Length:** 80 amino acids (aa) / 序列長度：80 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 348 / 物理屏蔽分數：348
+* **Z-Score (Base):** 1.6 -> **3.62 (Interaction)** / Z-分數：1.6 (基準) -> 3.62 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 1: Core (核心對齊) / 分類：第一類核心對齊
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q156A1 (80 aa) exhibits a baseline Z-Score of 1.6, which increases to 3.62 upon interaction with P0CK22. Classified as "Cluster 1: Core," this indicates a significant physical resonance with the viral entry-fusion complex. Despite its relatively short sequence, the protein shows strong structural alignment, suggesting it is a key component in the core physical docking process.
+* **中文：** Q156A1（80 個氨基酸）的基準 Z-Score 為 1.6，在與 P0CK22 交互作用後增加至 3.62。歸類為「第一類：核心對齊」，這顯示其與病毒入口融合複合體具有顯著的物理共振。儘管序列較短，該蛋白仍展現出強烈的結構對齊特性，暗示它是核心物理對接過程中的關鍵組分。
+
+---

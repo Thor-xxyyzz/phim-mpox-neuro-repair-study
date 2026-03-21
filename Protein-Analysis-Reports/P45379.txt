@@ -1,0 +1,18 @@
+### 📄 P45379 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** P45379
+* **Sequence Length:** 298 amino acids (aa) / 序列長度：298 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 323.99 / 物理屏蔽分數：323.99
+* **Z-Score (Base):** 0 -> **2.65 (Interaction)** / Z-分數：0 (基準) -> 2.65 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 2: Functional (功能干擾) / 分類：第二類功能干擾
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** P45379 (298 aa) demonstrates a remarkable physical profile with an absolute zero baseline Z-Score, representing a state of perfect physical equilibrium under normal physiological conditions. The interaction with P0CK22 triggers a resonance surge to 2.65. Categorized as "Cluster 2: Functional Interference," this indicates that the viral entry-fusion complex specifically targets this balanced field, inducing significant physical instability and potential functional impairment.
+* **中文：** P45379（298 個氨基酸）展現了卓越的物理特性，其基準 Z-Score 為絕對零值，代表在正常生理條件下處於完美的物理平衡狀態。與 P0CK22 的交互作用觸發了 2.65 的共振激增。歸類為「第二類：功能干擾」，這顯示病毒入口融合複合體專門針對這種平衡場域，引發顯著的物理不穩定性及潛在的功能受損。
+
+---

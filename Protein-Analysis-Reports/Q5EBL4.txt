@@ -1,0 +1,18 @@
+### 📄 Q5EBL4 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q5EBL4
+* **Sequence Length:** 403 amino acids (aa) / 序列長度：403 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 313 / 物理屏蔽分數：313
+* **Z-Score (Base):** -0.73 -> **2.21 (Interaction)** / Z-分數：-0.73 (基準) -> 2.21 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q5EBL4 (403 aa) demonstrates a notably deep and stable baseline Z-Score of -0.73, indicating a state of high physical equilibrium under normal conditions. Upon interaction with P0CK22, it experiences a resonance shift to 2.21. Categorized as "Cluster 3: Peripheral," this suggests that although the protein’s physical field is clearly modulated by the viral entry-fusion complex, its functional position remains at the outskirts of the primary interaction network.
+* **中文：** Q5EBL4（403 個氨基酸）展現了顯著深層且穩定的基準 Z-Score (-0.73)，顯示其在正常條件下處於高度物理平衡的狀態。在與 P0CK22 交互作用後，其共振偏移至 2.21。歸類為「第三類：背景邊緣」，這顯示儘管該蛋白的物理場明顯受病毒入口融合複合體調節，其功能位置仍處於主要交互網絡的邊緣。
+
+---

@@ -1,0 +1,18 @@
+### 📄 Q9BZI7 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q9BZI7
+* **Sequence Length:** 483 amino acids (aa) / 序列長度：483 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 308.22 / 物理屏蔽分數：308.22
+* **Z-Score (Base):** -1.05 -> **2.02 (Interaction)** / Z-分數：-1.05 (基準) -> 2.02 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q9BZI7 (483 aa) exhibits an ultra-deep baseline Z-Score of -1.05, establishing a new record for physical stability in this data series. This "super-grounded" state indicates a near-total absence of structural noise in its native environment. Upon interaction with P0CK22, it transitions to a resonance of 2.02. Categorized as "Cluster 3: Peripheral," it remains a prime example of a highly orderly protein that maintains a secondary functional role in the viral entry-fusion network.
+* **中文：** Q9BZI7（483 個氨基酸）表現出 -1.05 的超深基準 Z-Score，創下了本數據系列中物理穩定性的新紀錄。這種「超接地」狀態顯示其在原生環境中幾乎不存在結構雜訊。與 P0CK22 交互作用後，其共振偏移至 2.02。歸類為「第三類：背景邊緣」，這使其成為高有序度蛋白在病毒入口融合網絡中維持次要功能角色的典型案例。
+
+---

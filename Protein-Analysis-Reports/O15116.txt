@@ -1,0 +1,18 @@
+### 📄 O15116 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** O15116
+* **Sequence Length:** 133 amino acids (aa) / 序列長度：133 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 312.11 / 物理屏蔽分數：312.11
+* **Z-Score (Base):** -0.79 -> **2.18 (Interaction)** / Z-分數：-0.79 (基準) -> 2.18 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** O15116 (133 aa) exhibits an extremely stable baseline Z-Score of -0.79, indicating a highly orderly and low-energy physical state. Interaction with P0CK22 results in a resonance shift to 2.18. Categorized as "Cluster 3: Peripheral," this suggests that although the protein's physical field is clearly modulated by the viral entry-fusion complex, its functional position remains at the outskirts of the primary interaction network.
+* **中文：** O15116（133 個氨基酸）表現出極其穩定的基準 Z-Score (-0.79)，顯示其處於高度有序且低能量的物理狀態。與 P0CK22 的交互作用導致共振偏移至 2.18。歸類為「第三類：背景邊緣」，這顯示儘管該蛋白的物理場明顯受病毒入口融合複合體調節，其功能位置仍處於主要交互網絡的邊緣。
+
+---

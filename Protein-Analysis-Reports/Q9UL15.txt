@@ -1,0 +1,19 @@
+### 📄 Q9UL15 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q9UL15
+* **Sequence Length:** 447 amino acids (aa) / 序列長度：447 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 309.4 / 物理屏蔽分數：309.4
+* **Z-Score (Base):** -0.97 -> **2.07 (Interaction)** / Z-分數：-0.97 (基準) -> 2.07 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q9UL15 (447 aa) maintains an extremely deep baseline Z-Score of -0.97, indicating a state of peak physical stability and order in its native environment. Upon interaction with P0CK22, it experiences a resonance shift to 2.07. Categorized as "Cluster 3: Peripheral," it remains at the functional outskirts of the viral entry-fusion complex network, despite its high physical sensitivity to the interaction.
+* **中文：** Q9UL15（447 個氨基酸）維持著極深的基準 Z-Score (-0.97)，顯示其在原生環境中處於巔峰的物理穩定與有序狀態。在與 P0CK22 交互作用後，其共振偏移至 2.07。歸類為「第三類：背景邊緣」，這顯示儘管該蛋白對交互作用有高度物理感應，但在病毒入口融合複合體網絡中仍處於功能邊緣。
+
+---
+

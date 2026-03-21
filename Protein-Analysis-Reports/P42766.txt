@@ -1,0 +1,18 @@
+### 📄 P42766 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** P42766
+* **Sequence Length:** 123 amino acids (aa) / 序列長度：123 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 324.47 / 物理屏蔽分數：324.47
+* **Z-Score (Base):** 0.03 -> **2.67 (Interaction)** / Z-分數：0.03 (基準) -> 2.67 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 2: Functional (功能干擾) / 分類：第二類功能干擾
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** P42766 (123 aa) displays an almost perfectly balanced baseline Z-Score of 0.03, representing a state of extreme physical stability. However, interaction with the viral protein P0CK22 triggers a significant resonance shift to 2.67. Categorized under "Cluster 2: Functional Interference," this indicates that the viral entry-fusion complex specifically destabilizes this "quiet" field, potentially leading to functional disruption.
+* **中文：** P42766（123 個氨基酸）顯示出幾乎完美平衡的基準 Z-Score (0.03)，代表極其穩定的物理狀態。然而，與病毒蛋白 P0CK22 的交互作用觸發了顯著的共振偏移至 2.67。歸類於「第二類：功能干擾」，這顯示病毒入口融合複合體專門針對這種「靜默」場域進行去穩定化，進而可能導致功能中斷。
+
+---

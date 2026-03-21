@@ -1,0 +1,18 @@
+### 📄 P07919 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** P07919
+* **Sequence Length:** 91 amino acids (aa) / 序列長度：91 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 309.78 / 物理屏蔽分數：309.78
+* **Z-Score (Base):** -0.95 -> **2.08 (Interaction)** / Z-分數：-0.95 (基準) -> 2.08 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** P07919 (91 aa) demonstrates an exceptionally deep baseline Z-Score of -0.95, indicating a state of peak physical stability and order in its native environment. Upon interaction with P0CK22, it experiences a resonance shift to 2.08. Categorized as "Cluster 3: Peripheral," it remains at the functional outskirts of the viral entry-fusion complex network, despite its high physical sensitivity to the interaction.
+* **中文：** P07919（91 個氨基酸）展現了極深的基準 Z-Score (-0.95)，顯示其在原生環境中處於巔峰的物理穩定與有序狀態。在與 P0CK22 交互作用後，其共振偏移至 2.08。歸類為「第三類：背景邊緣」，這顯示儘管該蛋白對交互作用有高度物理感應，但在病毒入口融合複合體網絡中仍處於功能邊緣。
+
+---

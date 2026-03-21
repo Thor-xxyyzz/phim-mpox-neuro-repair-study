@@ -1,0 +1,18 @@
+### 📄 P62081 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** P62081
+* **Sequence Length:** 194 amino acids (aa) / 序列長度：194 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 309.18 / 物理屏蔽分數：309.18
+* **Z-Score (Base):** -0.99 -> **2.06 (Interaction)** / Z-分數：-0.99 (基準) -> 2.06 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** P62081 (194 aa) reaches a critical threshold with an extremely deep baseline Z-Score of -0.99, representing a near-limit state of physical order and stability in its native environment. Upon interaction with P0CK22, it transitions to a resonance of 2.06. Classified as "Cluster 3: Peripheral," it indicates that while the protein is highly sensitive to the viral entry-fusion complex, it remains functionally situated at the periphery of the main interaction network.
+* **中文：** P62081（194 個氨基酸）達到了一個關鍵閾值，其基準 Z-Score 深達 -0.99，代表其在原生環境中處於接近極限的物理有序與穩定狀態。在與 P0CK22 交互作用後，其共振偏移至 2.06。歸類為「第三類：背景邊緣」，這顯示儘管該蛋白對病毒入口融合複合體高度敏感，但在功能上仍處於主交互網絡的邊緣。
+
+---

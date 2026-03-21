@@ -1,0 +1,18 @@
+### 📄 Q9Y3A5 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q9Y3A5
+* **Sequence Length:** 250 amino acids (aa) / 序列長度：250 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 311.48 / 物理屏蔽分數：311.48
+* **Z-Score (Base):** -0.83 -> **2.15 (Interaction)** / Z-分數：-0.83 (基準) -> 2.15 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q9Y3A5 (250 aa) maintains a consistent, deep baseline Z-Score of -0.83, matching the highest stability levels observed in this cluster. Interaction with P0CK22 results in a resonance shift to 2.15. Categorized as "Cluster 3: Peripheral," it indicates that although the protein is physically modulated by the viral entry-fusion complex, its functional position remains at the outskirts of the primary interaction network.
+* **中文：** Q9Y3A5（250 個氨基酸）維持著穩定的深層基準 Z-Score (-0.83)，達到了該群組中觀察到的最高穩定水平。與 P0CK22 的交互作用導致共振偏移至 2.15。歸類為「第三類：背景邊緣」，這顯示儘管該蛋白在物理上受病毒入口融合複合體調節，其功能位置仍處於主要交互網絡的邊緣。
+
+---

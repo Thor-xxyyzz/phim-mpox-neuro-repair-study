@@ -1,0 +1,18 @@
+### 📄 Q5T655 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q5T655
+* **Sequence Length:** 872 amino acids (aa) / 序列長度：872 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 321.74 / 物理屏蔽分數：321.74
+* **Z-Score (Base):** -0.15 -> **2.56 (Interaction)** / Z-分數：-0.15 (基準) -> 2.56 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 2: Functional (功能干擾) / 分類：第二類功能干擾
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q5T655 (872 aa) demonstrates an exceptionally stable baseline Z-Score of -0.15, suggesting a highly ordered and "quiet" physical field in its native state. Upon interaction with P0CK22, it experiences a significant resonance shift to 2.56. Classified under "Cluster 2: Functional Interference," this indicates that the viral entry-fusion complex protein OPG076 effectively destabilizes the protein's native electromagnetic equilibrium, potentially leading to functional impairment.
+* **中文：** Q5T655（872 個氨基酸）展現了極其穩定的基準 Z-Score (-0.15)，顯示其在原生狀態下具有高度有序且「靜默」的物理場。在與 P0CK22 交互作用後，其共振大幅偏移至 2.56。歸類於「第二類：功能干擾」，這顯示病毒入口融合複合體蛋白 OPG076 有效地去穩定了該蛋白的原生電磁平衡，進而可能導致功能受損。
+
+---

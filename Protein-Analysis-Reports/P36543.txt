@@ -1,0 +1,18 @@
+### 📄 P36543 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** P36543
+* **Sequence Length:** 226 amino acids (aa) / 序列長度：226 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 315.09 / 物理屏蔽分數：315.09
+* **Z-Score (Base):** -0.59 -> **2.3 (Interaction)** / Z-分數：-0.59 (基準) -> 2.3 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** P36543 (226 aa) maintains a highly stable baseline Z-Score of -0.59, representing an exceptionally orderly physical state in its native environment. Interaction with P0CK22 induces a resonance shift to 2.3. Categorized as "Cluster 3: Peripheral," this indicates that while the viral entry-fusion complex protein OPG076 influences the protein's physical field, it remains on the functional periphery of the primary interaction network, likely playing a non-central role.
+* **中文：** P36543（226 個氨基酸）維持著高度穩定的基準 Z-Score (-0.59)，代表其在原生環境中處於極其有序的物理狀態。與 P0CK22 的交互作用引發了 2.3 的共振偏移。歸類為「第三類：背景邊緣」，這顯示儘管病毒入口融合複合體蛋白 OPG076 影響了該蛋白的物理場，但其仍處於主要交互網絡的功能邊緣，可能扮演非核心角色。
+
+---

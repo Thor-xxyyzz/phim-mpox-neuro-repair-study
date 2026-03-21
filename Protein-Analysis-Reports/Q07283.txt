@@ -1,0 +1,18 @@
+### 📄 Q07283 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q07283
+* **Sequence Length:** 1943 amino acids (aa) / 序列長度：1943 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 355.75 / 物理屏蔽分數：355.75
+* **Z-Score (Base):** 2.12 -> **3.93 (Interaction)** / Z-分數：2.12 (基準) -> 3.93 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 1: Core (核心對齊) / 分類：第一類核心對齊
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q07283 (1943 aa) maintains a high baseline Z-Score of 2.12, which significantly intensifies to 3.93 during interaction with P0CK22. Classified as "Cluster 1: Core," this indicates a strong physical resonance and structural alignment with the viral entry-fusion complex, suggesting this protein plays a central role in the physical docking mechanism.
+* **中文：** Q07283（1943 個氨基酸）維持著 2.12 的高基準 Z-Score，在與 P0CK22 交互作用期間顯著增強至 3.93。歸類為「第一類：核心對齊」，這顯示其與病毒入口融合複合體具有強烈的物理共振與結構對齊，暗示該蛋白在物理對接機制中扮演核心角色。
+
+---

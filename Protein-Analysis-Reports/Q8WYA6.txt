@@ -1,0 +1,18 @@
+### 📄 Q8WYA6 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** Q8WYA6
+* **Sequence Length:** 563 amino acids (aa) / 序列長度：563 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 308.97 / 物理屏蔽分數：308.97
+* **Z-Score (Base):** -1 -> **2.05 (Interaction)** / Z-分數：-1 (基準) -> 2.05 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** Q8WYA6 (563 aa) reaches a significant milestone with a baseline Z-Score of exactly -1, indicating a state of perfect physical grounding and extreme structural order in its native environment. Upon interaction with P0CK22, it transitions to a resonance of 2.05. Despite this deep stability, it remains classified as "Cluster 3: Peripheral," confirming that these high-order proteins consistently occupy the functional outskirts of the viral entry-fusion network.
+* **中文：** Q8WYA6（563 個氨基酸）達到了一個重要的里程碑，其基準 Z-Score 準確來到 -1，顯示其在原生環境中處於完美的物理接地與極度的結構有序狀態。與 P0CK22 交互作用後，其共振偏移至 2.05。儘管具備如此深層的穩定性，它仍歸類為「第三類：背景邊緣」，這證實了這些高有序度蛋白在病毒入口融合網絡中一致地處於功能邊緣位置。
+
+---

@@ -1,0 +1,18 @@
+### 📄 P67936 中英對照解說 (Bilingual Summary)
+
+**[Protein Identity / 蛋白質身份]**
+* **Human Protein ID:** P67936
+* **Sequence Length:** 248 amino acids (aa) / 序列長度：248 個氨基酸
+* **Status:** Normal Baseline / 狀態：正常基位
+
+**[PHIM Physical Field Analysis / PHIM 物理場分析]**
+* **Shield_Score:** 318.06 / 物理屏蔽分數：318.06
+* **Z-Score (Base):** -0.4 -> **2.42 (Interaction)** / Z-分數：-0.4 (基準) -> 2.42 (交互顯著)
+* **Mechanism:** Entry-fusion complex protein OPG076 / 機制：入口融合複合體蛋白 OPG076
+* **Classification:** Cluster 3: Peripheral (背景邊緣) / 分類：第三類背景邊緣
+
+**[Scientific Conclusion / 科學結論]**
+* **English:** P67936 (248 aa) demonstrates an exceptionally stable baseline Z-Score of -0.4, indicating a high level of physical equilibrium in its native state. While interaction with P0CK22 raises the resonance to 2.42, it is categorized as "Cluster 3: Peripheral." This suggests that while the protein's physical field is affected by the viral entry-fusion complex, its involvement is likely secondary or situated at the periphery of the main interaction network.
+* **中文：** P67936（248 個氨基酸）展現了 -0.4 的極穩定基準 Z-Score，顯示其在原生狀態下具有高度的物理平衡。雖然與 P0CK22 的交互作用將共振提升至 2.42，但其被歸類為「第三類：背景邊緣」。這顯示儘管該蛋白的物理場受病毒入口融合複合體影響，其參與程度可能屬於次要地位，或處於主交互網絡的邊緣。
+
+---
