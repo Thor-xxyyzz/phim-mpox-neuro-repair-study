@@ -1,0 +1,179 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>PHIM-Q v20.2 最終修正版報告 / PHIM-Q v20.2 Final Report</title>
+        <style>
+            body { font-family: Arial, sans-serif; margin: 20px; }
+            table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+            th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+            th { background-color: #4CAF50; color: white; }
+            tr:nth-child(even) { background-color: #f2f2f2; }
+            .high-risk { background-color: #ffcccc; }
+            .medium-risk { background-color: #ffffcc; }
+            .low-risk { background-color: #ccffcc; }
+        </style>
+    </head>
+    <body>
+        <h1>PHIM-Q v20.2 最終修正版報告<br><small>PHIM-Q v20.2 Final Report</small></h1>
+        <p>生成時間 / Generated: 2026-03-24 14:28:21</p>
+        
+        <h2>統計摘要 / Statistical Summary</h2>
+        <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>mean</th>
+      <th>median</th>
+      <th>min</th>
+      <th>max</th>
+      <th>count</th>
+    </tr>
+    <tr>
+      <th>Category</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Pathogenic</th>
+      <td>1.087</td>
+      <td>1.1</td>
+      <td>0.346</td>
+      <td>1.567</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>
+        
+        <h2>高風險蛋白 (PI > 1.5)<br><small>High-Risk Proteins (PI > 1.5)</small></h2>
+        <table border="1" class="dataframe high-risk">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Name</th>
+      <th>Type_Name</th>
+      <th>Pathology_Index</th>
+      <th>Hidden_Core</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Complement_C1q_A</td>
+      <td>Classic_IDP</td>
+      <td>1.532929</td>
+      <td>Core_155-165_10aa</td>
+    </tr>
+    <tr>
+      <td>Complement_C1q_C</td>
+      <td>Classic_IDP</td>
+      <td>1.566912</td>
+      <td>Core_165-175_10aa</td>
+    </tr>
+    <tr>
+      <td>Platelet_Factor_4_Variant</td>
+      <td>Short_Aggregator</td>
+      <td>1.517601</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+        
+        <h2>隱藏致病核心偵測<br><small>Hidden Pathogenic Core Detection</small></h2>
+        <table border="1" class="dataframe high-risk">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Name</th>
+      <th>Pathology_Index</th>
+      <th>Hidden_Core</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Alpha_1B_Glycoprotein</td>
+      <td>1.080435</td>
+      <td>Core_5-15_10aa</td>
+    </tr>
+    <tr>
+      <td>Angiotensinogen</td>
+      <td>1.274316</td>
+      <td>Core_450-460_10aa</td>
+    </tr>
+    <tr>
+      <td>Alpha_2_Macroglobulin</td>
+      <td>1.255939</td>
+      <td>Core_30-40_10aa</td>
+    </tr>
+    <tr>
+      <td>Complement_C3</td>
+      <td>1.214105</td>
+      <td>Core_1080-1090_10aa</td>
+    </tr>
+    <tr>
+      <td>Complement_C5</td>
+      <td>1.425313</td>
+      <td>Core_1015-1025_10aa</td>
+    </tr>
+    <tr>
+      <td>Complement_C1q_A</td>
+      <td>1.532929</td>
+      <td>Core_155-165_10aa</td>
+    </tr>
+    <tr>
+      <td>Complement_C1q_B</td>
+      <td>1.332278</td>
+      <td>Core_165-175_10aa</td>
+    </tr>
+    <tr>
+      <td>Complement_C1q_C</td>
+      <td>1.566912</td>
+      <td>Core_165-175_10aa</td>
+    </tr>
+    <tr>
+      <td>Apoh</td>
+      <td>0.810121</td>
+      <td>Core_0-10_10aa</td>
+    </tr>
+    <tr>
+      <td>Leucine_Rich_Alpha_2_Glycoprotein</td>
+      <td>1.285266</td>
+      <td>Core_20-30_10aa</td>
+    </tr>
+    <tr>
+      <td>Fibronectin</td>
+      <td>1.065208</td>
+      <td>Core_1695-1705_10aa</td>
+    </tr>
+    <tr>
+      <td>Retinol_Binding_Protein_4</td>
+      <td>1.063402</td>
+      <td>Core_0-10_10aa</td>
+    </tr>
+    <tr>
+      <td>Alpha_2_HS_Glycoprotein</td>
+      <td>1.142043</td>
+      <td>Core_40-50_10aa</td>
+    </tr>
+    <tr>
+      <td>Vitamin_D_Binding_Protein</td>
+      <td>0.754380</td>
+      <td>Core_305-315_10aa</td>
+    </tr>
+    <tr>
+      <td>Hemopexin</td>
+      <td>1.400001</td>
+      <td>Core_325-335_10aa</td>
+    </tr>
+    <tr>
+      <td>Ferritin_Light_Chain</td>
+      <td>1.170370</td>
+      <td>Core_20-40_20aa</td>
+    </tr>
+  </tbody>
+</table>
+    </body>
+    </html>
+    
