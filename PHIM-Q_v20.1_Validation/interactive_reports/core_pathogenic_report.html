@@ -1,0 +1,188 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>PHIM-Q v20.2 最終修正版報告 / PHIM-Q v20.2 Final Report</title>
+        <style>
+            body { font-family: Arial, sans-serif; margin: 20px; }
+            table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+            th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+            th { background-color: #4CAF50; color: white; }
+            tr:nth-child(even) { background-color: #f2f2f2; }
+            .high-risk { background-color: #ffcccc; }
+            .medium-risk { background-color: #ffffcc; }
+            .low-risk { background-color: #ccffcc; }
+        </style>
+    </head>
+    <body>
+        <h1>PHIM-Q v20.2 最終修正版報告<br><small>PHIM-Q v20.2 Final Report</small></h1>
+        <p>生成時間 / Generated: 2026-03-24 14:31:11</p>
+        
+        <h2>統計摘要 / Statistical Summary</h2>
+        <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>mean</th>
+      <th>median</th>
+      <th>min</th>
+      <th>max</th>
+      <th>count</th>
+    </tr>
+    <tr>
+      <th>Category</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Functional_HiEnergy</th>
+      <td>0.387</td>
+      <td>0.382</td>
+      <td>0.318</td>
+      <td>0.531</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <th>Pathogenic</th>
+      <td>1.471</td>
+      <td>1.468</td>
+      <td>0.922</td>
+      <td>2.203</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <th>Structural_Stable</th>
+      <td>0.969</td>
+      <td>1.008</td>
+      <td>0.626</td>
+      <td>1.100</td>
+      <td>10</td>
+    </tr>
+  </tbody>
+</table>
+        
+        <h2>高風險蛋白 (PI > 1.5)<br><small>High-Risk Proteins (PI > 1.5)</small></h2>
+        <table border="1" class="dataframe high-risk">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Name</th>
+      <th>Type_Name</th>
+      <th>Pathology_Index</th>
+      <th>Hidden_Core</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tau_Protein</td>
+      <td>Classic_IDP</td>
+      <td>1.970818</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>TDP_43</td>
+      <td>Classic_IDP</td>
+      <td>1.730146</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Prion_Protein</td>
+      <td>Classic_IDP</td>
+      <td>1.735717</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Amylin_IAPP</td>
+      <td>Short_Aggregator</td>
+      <td>1.872093</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>TTR_V30M</td>
+      <td>Short_Aggregator</td>
+      <td>1.862693</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>DPF2</td>
+      <td>Classic_IDP</td>
+      <td>1.593689</td>
+      <td>Core_75-85_10aa</td>
+    </tr>
+    <tr>
+      <td>MeCP2</td>
+      <td>Classic_IDP</td>
+      <td>1.568201</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Serum_Amyloid_A</td>
+      <td>Boundary_Hybrid</td>
+      <td>1.609284</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Alpha1_Antitrypsin</td>
+      <td>Boundary_Hybrid</td>
+      <td>1.551460</td>
+      <td>Core_205-215_10aa</td>
+    </tr>
+    <tr>
+      <td>Glucagon</td>
+      <td>High_HC_Folded</td>
+      <td>2.202583</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Insulin</td>
+      <td>Short_Aggregator</td>
+      <td>2.030201</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+        
+        <h2>隱藏致病核心偵測<br><small>Hidden Pathogenic Core Detection</small></h2>
+        <table border="1" class="dataframe high-risk">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Name</th>
+      <th>Pathology_Index</th>
+      <th>Hidden_Core</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ANP_Atrial_Natriuretic</td>
+      <td>1.477505</td>
+      <td>Core_10-20_10aa</td>
+    </tr>
+    <tr>
+      <td>DPF2</td>
+      <td>1.593689</td>
+      <td>Core_75-85_10aa</td>
+    </tr>
+    <tr>
+      <td>Kininogen_1</td>
+      <td>1.261506</td>
+      <td>Core_0-10_10aa</td>
+    </tr>
+    <tr>
+      <td>Transferrin</td>
+      <td>1.290769</td>
+      <td>Core_5-25_20aa</td>
+    </tr>
+    <tr>
+      <td>Alpha1_Antitrypsin</td>
+      <td>1.551460</td>
+      <td>Core_205-215_10aa</td>
+    </tr>
+  </tbody>
+</table>
+    </body>
+    </html>
+    
