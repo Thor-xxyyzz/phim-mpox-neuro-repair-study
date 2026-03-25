@@ -1,0 +1,11 @@
+gene_name,mutation_name,disease,delta_pi
+APP,V717I,Alzheimer,0.15
+PSEN1,A246E,Alzheimer,0.18
+MAPT,P301L,FTD,0.22
+SNCA,A53T,Parkinson,0.2
+PARK2,R42W,Parkinson,0.12
+SOD1,G93A,ALS,0.18
+TARDBP,M337V,ALS,0.16
+INS,C96Y,Diabetes,0.14
+IAPP,S20G,Diabetes,0.22
+TTR,V30M,Amyloidosis,0.25

@@ -1,0 +1,7 @@
+gene_name,mutation_name,wt_pi,mut_pi,delta_pi,risk_level
+TP53,R175H,1.08,1.35,0.27,high
+TP53,R248W,1.08,1.42,0.34,high
+KRAS,G12C,0.89,1.15,0.26,high
+KRAS,G12V,0.89,1.12,0.23,high
+BRAF,V600E,1.1,1.55,0.45,high
+EGFR,L858R,0.91,1.15,0.24,high

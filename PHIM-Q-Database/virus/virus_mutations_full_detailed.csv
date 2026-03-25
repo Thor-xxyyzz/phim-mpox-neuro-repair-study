@@ -1,0 +1,11 @@
+virus_name,protein_name,mutation_name,effect,delta_pi
+SARS-CoV-2,Spike,D614G,increased infectivity,0.01
+SARS-CoV-2,Spike,N501Y,increased ACE2 binding,-0.49
+SARS-CoV-2,Spike,E484K,immune escape,0.2
+SARS-CoV-2,Spike,K417N,immune escape,-0.07
+SARS-CoV-2,Spike,L452R,increased infectivity,-0.4
+SARS-CoV-2,Spike,P681R,increased cleavage,0.1
+Influenza A,Hemagglutinin,D225G,increased virulence,0.02
+Influenza A,Hemagglutinin,G228S,receptor switching,0.08
+HIV-1,Envelope,V3 loop,co-receptor switching,0.26
+HBV,Surface antigen,G145R,vaccine escape,-0.14
