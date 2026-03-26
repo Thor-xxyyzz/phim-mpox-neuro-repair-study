@@ -1,0 +1,204 @@
+## PHIM-Q Protein Physical Stability Analysis — Complete Logical Framework
+
+---
+
+### 🎯 One Sentence Summary
+
+**PHIM-Q is a sequence-based, dual-track physical model that calculates the Pathology Index (PI) to assess whether a protein is prone to instability or aggregation, and can detect hidden pathogenic cores.**
+
+---
+
+## 📊 Overall Architecture
+
+```
+Protein Sequence
+    │
+    ▼
+┌─────────────────────────────────────────────────────────────┐
+│                    Step 1: Feature Calculation              │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ┌─────────────┐  ┌─────────────┐  ┌─────────────┐        │
+│   │ Hydrophobic │  │ Structural  │  │  Electro-   │        │
+│   │  Features   │  │  Features   │  │ static      │        │
+│   ├─────────────┤  ├─────────────┤  ├─────────────┤        │
+│   │ HC          │  │ Beta        │  │ Psi_Peak    │        │
+│   │ (Hydrophobic│  │ (β-sheet    │  │ Psi_Avg     │        │
+│   │  Cluster)   │  │  propensity)│  │ Xi_W        │        │
+│   │             │  │ Disorder    │  │ (Charge     │        │
+│   │             │  │ (Disorder   │  │  Perturb-   │        │
+│   │             │  │  tendency)  │  │  ation)     │        │
+│   └─────────────┘  └─────────────┘  └─────────────┘        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+    │
+    ▼
+┌─────────────────────────────────────────────────────────────┐
+│                    Step 2: Dynamic Routing                  │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   W_IDP = f(Disorder, Beta)                                 │
+│                                                             │
+│   ┌─────────────────────┐    ┌─────────────────────┐        │
+│   │   Folded Track      │    │    IDP Track        │        │
+│   │   Weight = 1-W_IDP  │    │    Weight = W_IDP   │        │
+│   ├─────────────────────┤    ├─────────────────────┤        │
+│   │ • Hydrophobic-driven│    │ • Disorder-driven   │        │
+│   │ • HC, Beta weighted │    │ • Disorder, Psi     │        │
+│   │   heavily           │    │   weighted heavily  │        │
+│   └─────────────────────┘    └─────────────────────┘        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+    │
+    ▼
+┌─────────────────────────────────────────────────────────────┐
+│                    Step 3: Dual-Track Calculation           │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   Omega_F = HC¹·⁵ × (Beta/1.15)² × (1 + 0.3×Psi_ratio)     │
+│            × (1 + 2×Agg_Bias) × (1 + Xi_W) × Λ(L)          │
+│                                                             │
+│   Omega_I = Disorder¹·⁵ × (1 + 2×Xi_W) × (1 + 0.3×HC)      │
+│            × (Beta/1.15) × (1 + Psi_avg/0.35)              │
+│            × √(Psi_peak/Psi_avg) × Λ(L)                     │
+│                                                             │
+│   Omega_v20 = (1-W_IDP)×ln(1+Omega_F) + W_IDP×ln(1+Omega_I)│
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+    │
+    ▼
+┌─────────────────────────────────────────────────────────────┐
+│                    Step 4: Core Scanning                    │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   For long proteins (L > 200) or those with PI < 1.6,      │
+│   scan local regions with sliding windows (20-80 aa)       │
+│                                                             │
+│   Trigger Condition:                                        │
+│   ┌─────────────────────────────────────────────────────┐   │
+│   │ Local HC > 0.18 AND Local Beta > 1.15               │   │
+│   │ AND Local Charge Density < 0.13                     │   │
+│   └─────────────────────────────────────────────────────┘   │
+│                                                             │
+│   Upon Trigger: PI = PI × (1 + core_score × 0.5)           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+    │
+    ▼
+┌─────────────────────────────────────────────────────────────┐
+│                    Step 5: Normalization & Output           │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   PI_Raw = Omega_v20 / Baseline (Baseline = 0.3)           │
+│                                                             │
+│   ┌─────────────────────────────────────────────────────┐   │
+│   │ Piecewise Scaling:                                  │   │
+│   │   PI < 1.0  → PI = PI_Raw                          │   │
+│   │   1.0 ≤ PI < 2.0 → PI = 1.0 + (PI_Raw-1.0)^0.85   │   │
+│   │   PI ≥ 2.0 → PI = 1.0 + ln(PI_Raw-0.999)          │   │
+│   └─────────────────────────────────────────────────────┘   │
+│                                                             │
+│   Final Output: Pathology Index (PI)                        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🔬 Physical Meaning of Each Parameter
+
+| Parameter | Full Name | Physical Meaning |
+|-----------|-----------|------------------|
+| **HC** | Hydrophobic Cluster | Degree of hydrophobic amino acid clustering. Higher values indicate stronger hydrophobic cores, but also greater risk of exposure. |
+| **Beta** | Beta Propensity | Tendency to form β-sheet structures, which are the core architecture of amyloid fibrils. |
+| **Disorder** | Disorder Tendency | Proportion of intrinsically disordered regions. IDPs aggregate through different mechanisms than folded proteins. |
+| **Psi** | Charge Heterogeneity | Non-uniformity of charge distribution along the sequence. Charge imbalance disrupts electrostatic shielding. |
+| **Xi_W** | Charge Perturbation | Magnitude of electrostatic fluctuations, reflecting the stability of the electrostatic shield. |
+| **W_IDP** | IDP Weight | Weight assigned to the IDP track, determined jointly by Disorder and Beta values. |
+| **Λ(L)** | Length Factor | Length-dependent scaling factor. Increases weight for long IDPs, decreases for long folded proteins. |
+| **Baseline** | Reference Baseline | Median Omega value of structurally stable proteins (0.3), used for PI normalization. |
+
+---
+
+## 🧠 Physical Intuition Behind the Core Logic
+
+### 1️⃣ Why Separate Folded and IDP Tracks?
+
+```
+Folded Proteins                   Intrinsically Disordered Proteins
+────────────────────────────────────────────────────────────────────
+Fixed 3D structure                No fixed structure
+Hydrophobic core buried inside    Low hydrophobicity
+Aggregation = hydrophobic         Aggregation = charge collapse +
+exposure                          disorder collapse
+Drug strategy = stabilize         Drug strategy = restore
+structure                         electrostatic shielding
+```
+
+**The "physical weakness" of these two protein classes is fundamentally different and must be treated separately.**
+
+---
+
+### 2️⃣ Why Perform Core Scanning?
+
+```
+Full-length APP (770 aa)          Aβ42 Fragment (42 aa)
+────────────────────────────────────────────────────────────────
+PI = 0.89 (stable)                PI = 1.56 (high risk)
+
+The pathogenic core is "buried" within the full-length protein,
+diluted by averaging. Core scanning = finding these hidden "time bombs."
+```
+
+---
+
+### 3️⃣ Why Use Logarithmic Mixing?
+
+```
+Omega_F and Omega_I can differ by orders of magnitude (e.g., 0.1 vs 1.5)
+Linear mixing would allow the larger value to dominate.
+
+Log1p compression balances the weights more effectively.
+```
+
+---
+
+### 4️⃣ Why Use Piecewise Scaling?
+
+```
+PI_Raw can range from 0.5 to 3.0+
+Direct output compresses low-risk regions while leaving
+high-risk regions indistinct.
+
+Piecewise scaling: linear in low region, mild compression in mid,
+logarithmic in high → preserves high-risk resolution.
+```
+
+---
+
+## 📈 PI Interpretation and Applications
+
+| PI Range | Risk Level | Interpretation |
+|----------|------------|----------------|
+| < 0.8 | Very Low | Highly stable, unlikely to aggregate |
+| 0.8 - 1.0 | Low | Normal proteins, like control group |
+| 1.0 - 1.2 | Moderate | Borderline risk, requires attention |
+| 1.2 - 1.5 | Moderate-High | Potentially aggregation-prone |
+| > 1.5 | High | High risk of instability/aggregation |
+
+---
+
+## 🏭 Application Scenarios
+
+| User | Application |
+|------|-------------|
+| **Pharmaceutical Companies** | Screen physically stable targets to avoid development failures |
+| **Academic Researchers** | Understand protein instability mechanisms, validate experimental results |
+| **Clinical Research** | Assess pathogenicity of mutations |
+| **Biologics Development** | Predict storage stability of antibodies and protein therapeutics |
+
+---
+
+## ✅ Summary
+
+> **PHIM-Q uses physics to convert protein "stability" into a quantifiable, comparable, and screenable metric (PI). It does not tell you what a protein looks like—it tells you whether it will "break."**
