@@ -1,30 +1,12 @@
-# PHIM 2.0: Host Proteome Phase Transition and Viral Pathogenicity Prediction
-# PHIM 2.0：宿主蛋白質組相變與病毒致病性預測
-https://medium.com/@papagogothor/phim-2-0-host-proteome-phase-transition-and-viral-pathogenicity-prediction-6a1f2cc6cb31
+# PHIM-Q Series (IV): From Physical Criteria to Clinical Prediction Engine — Integration and Validation of PHIM-Q v20.1
+# PHIM-Q 系列（四）：從物理判據到臨床預測引擎 — PHIM-Q v20.1 的整合與驗證
+https://medium.com/@papagogothor/phim-q-series-iv-from-physical-criteria-to-clinical-prediction-engine-integration-and-cefab3b4a5bf
 
-# PHIM Discovery Report: From Viral Entry Mechanism to Neural Protein Repair
-# PHIM 發現報告：從病毒入侵機制到神經蛋白修復
 
-https://medium.com/@papagogothor/phim-discovery-report-from-viral-entry-mechanism-to-neural-protein-repair-21fd1c9362f1
-## 🧬 Technical Abstract / 技術摘要
-This study utilizing the PHIM engine successfully translated a high-intensity physical shielding strategy (Score: 363.86) from the P0CK22 sequence of the Monkeypox virus (Mpox). Analysis indicates significant physical resonance between this field and the critical human neural protein Q156A1 (CNTNAP2).
+本研究將前三篇所建立的物理判據整合為 PHIM-Q v20.1 框架。經由 44 個致病蛋白與 91 個結構穩定蛋白驗證，結果顯示致病組與對照組的病理指數（PI）均值具顯著差異（1.281 vs 0.976），且對照組無任何假陽性。
 
-本研究透過 PHIM 引擎，成功從猴痘病毒 (Mpox) 的 P0CK22 序列中轉譯出一套高強度物理屏蔽策略 (Score: 363.86)。數據分析顯示，該物理場與人類神經關鍵蛋白 Q156A1 (CNTNAP2) 存在顯著的物理共振。
+This study integrates physical criteria from previous installments into the PHIM-Q v20.1 framework. Validated against 44 pathogenic and 91 stable proteins, the results demonstrate a significant gap in Pathology Index (PI) means (1.281 vs. 0.976) with zero false positives in the control group.
 
-### 1. [/Physical-Waveforms](https://github.com/Thor-xxyyzz/phim-mpox-neuro-repair-study/tree/main/Physical-Waveforms)
-**包含 50 組高解析度物理波形圖 (Verification Plots)**
-* [cite_start]**藍線 (Blue Line)**：展示人類蛋白質的原生親水性震盪軌跡（Hydrophobicity Index），這是 PHIM 引擎進行實相感知的「物理基位」數據。 
-* [cite_start]**能量包絡 (Shaded Regions)**：圖中陰影部分標示了蛋白序列中的物理不穩定區間，這是 PHIM 引擎鎖定的核心干擾場域。 
-* [cite_start]**實證規模**：透過這 50 組波形的高頻特徵，證實了模型在捕捉宿主蛋白質組「相變前兆」時的極高靈敏度。 
-
-### 2. [/Protein-Analysis-Reports](https://github.com/Thor-xxyyzz/phim-mpox-neuro-repair-study/tree/main/Protein-Analysis-Reports)
-**個別蛋白質深度分析報告**
-* [cite_start]提供這 50 組關鍵標靶的中英對照分析（如 **O15078**, **O15116**）。 
-* [cite_start]詳細紀錄每組蛋白的 **Shield_Score**、**Z-Score 偏移** 及交互作用機制。 
-
-### 3. [PHIM_Final_Layered_Analysis.csv](https://github.com/Thor-xxyyzz/phim-mpox-neuro-repair-study/blob/main/PHIM_Final_Layered_Analysis.csv)
-**全樣本物理參數清單**
-* 包含 50 組蛋白的完整統計數值與分群（Cluster）分類，供獨立統計驗證。
 
 ## 📚 Data Sources / 數據來源庫
 - **Google Cloud & AlphaFold**: Protein 3D physical structure prediction.
